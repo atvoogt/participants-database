@@ -18,7 +18,7 @@ msgstr ""
 #: classes/PDb_FormElement.class.php:335
 #: classes/xnau_FormElement.class.php:966 manage_fields.php:463
 msgid "delete"
-msgstr "verwijder"
+msgstr "verwijderen"
 
 #: classes/PDb_FormElement.class.php:528
 msgid "Text-line"
@@ -26,7 +26,7 @@ msgstr "Tekstregel"
 
 #: classes/PDb_FormElement.class.php:529
 msgid "Text Area"
-msgstr "Tekstgebeid"
+msgstr "Tekstgebied"
 
 #: classes/PDb_FormElement.class.php:530
 msgid "Rich Text"
@@ -50,19 +50,19 @@ msgstr "Datumveld"
 
 #: classes/PDb_FormElement.class.php:535
 msgid "Dropdown/Other"
-msgstr "Uitklap/anders"
+msgstr "Uitklap/Overig"
 
 #: classes/PDb_FormElement.class.php:536
 msgid "Multiselect Checkbox"
-msgstr "Meerkeuze"
+msgstr "Meerkeuzevak"
 
 #: classes/PDb_FormElement.class.php:537
 msgid "Radio Buttons/Other"
-msgstr "Radioknoppen/anders"
+msgstr "Radioknoppen/Overig"
 
 #: classes/PDb_FormElement.class.php:538
 msgid "Multiselect/Other"
-msgstr "Meerkeuze/Anders"
+msgstr "Meerkeuze/Overig"
 
 #: classes/PDb_FormElement.class.php:539
 msgid "Link Field"
@@ -70,7 +70,7 @@ msgstr "Linkveld"
 
 #: classes/PDb_FormElement.class.php:540
 msgid "Image Upload Field"
-msgstr "Afbeeldingupload-veld"
+msgstr "Afbeeldingsupload-veld"
 
 #: classes/PDb_FormElement.class.php:541
 msgid "File Upload Field"
@@ -82,7 +82,7 @@ msgstr "Verborgen veld"
 
 #: classes/PDb_FormElement.class.php:543
 msgid "Password Field"
-msgstr "Wachtwoorveld"
+msgstr "Wachtwoordveld"
 
 #: classes/PDb_FormElement.class.php:544
 msgid "CAPTCHA"
@@ -117,17 +117,17 @@ msgstr "Typ iets in om naar te zoeken."
 #: classes/PDb_List.class.php:799 templates/pdb-list-bootstrap.php:35
 #: templates/pdb-list-detailed.php:47 templates/pdb-search-default.php:35
 msgid "Search"
-msgstr "Zoek"
+msgstr "Zoeken"
 
 #: classes/PDb_List.class.php:814 classes/PDb_List_Admin.class.php:501
 #: templates/pdb-list-bootstrap.php:52 templates/pdb-list-detailed.php:75
 #: templates/pdb-search-default.php:63
 msgid "Sort by"
-msgstr "Sorteer op"
+msgstr "Sorteren op"
 
 #: classes/PDb_List.class.php:885
 msgid "select"
-msgstr "selecteer"
+msgstr "selecteren"
 
 #: classes/PDb_List.class.php:956 classes/PDb_List_Admin.class.php:516
 #: classes/PDb_Settings.class.php:810 classes/PDb_Settings.class.php:836
@@ -144,44 +144,44 @@ msgstr "Aflopend"
 #: classes/PDb_List.class.php:1389 classes/PDb_List_Admin.class.php:910
 msgctxt "submit button label"
 msgid "Delete Checked"
-msgstr "Verwijder selectie"
+msgstr "Selectie verwijderen"
 
 #: classes/PDb_List.class.php:1390 classes/PDb_List_Admin.class.php:911
 msgctxt "submit button label"
 msgid "Change"
-msgstr "Wijzig"
+msgstr "Wijzigen"
 
 #: classes/PDb_List.class.php:1391 classes/PDb_List_Admin.class.php:912
 msgctxt "submit button label"
 msgid "Sort"
-msgstr "Sorteer"
+msgstr "Sorteren"
 
 #: classes/PDb_List.class.php:1392 classes/PDb_List_Admin.class.php:913
 msgctxt "submit button label"
 msgid "Filter"
-msgstr "Filter"
+msgstr "Filteren"
 
 #: classes/PDb_List.class.php:1393 classes/PDb_List_Admin.class.php:914
 msgctxt "submit button label"
 msgid "Clear"
-msgstr "Wis"
+msgstr "Wissen"
 
 #: classes/PDb_List.class.php:1394 classes/PDb_List_Admin.class.php:915
 msgctxt "search button label"
 msgid "Search"
-msgstr "Zoek"
+msgstr "Zoeken"
 
 #: classes/PDb_List_Admin.class.php:210
 msgid "Record delete successful."
-msgstr "Record succesvol verwijderd."
+msgstr "Record met succes verwijderd."
 
 #: classes/PDb_List_Admin.class.php:368 participants-database.php:514
 msgid "Do you really want to delete the selected record?"
-msgstr "Weet u zeker dat u het geselecteerde record wilt verwijderen?"
+msgstr "Weet je zeker dat je het geselecteerde record wilt verwijderen?"
 
 #: classes/PDb_List_Admin.class.php:369 participants-database.php:515
 msgid "Do you really want to delete the selected records?"
-msgstr "Weet u zeker dat u de geselecteerde records wilt verwijderen?"
+msgstr "Weet je zeker dat je de geselecteerde records wilt verwijderen?"
 
 #: classes/PDb_List_Admin.class.php:434 participants-database.php:420
 #: participants-database.php:421
@@ -232,7 +232,7 @@ msgstr "Toon %s records per pagina."
 
 #: classes/PDb_List_Admin.class.php:616
 msgid "Edit"
-msgstr "Bewerk"
+msgstr "Bewerken"
 
 #: classes/PDb_List_Admin.class.php:755
 msgid "No records found"
@@ -240,7 +240,7 @@ msgstr "Geen records gevonden"
 
 #: classes/PDb_List_Admin.class.php:773
 msgid "Export CSV"
-msgstr "Exporteer CSV"
+msgstr "CSV exporteren"
 
 #: classes/PDb_List_Admin.class.php:786
 msgid "File Name"
@@ -248,7 +248,7 @@ msgstr "Bestandsnaam"
 
 #: classes/PDb_List_Admin.class.php:788
 msgid "Download CSV for this list"
-msgstr "Download CSV van deze lijst"
+msgstr "Download CSV-bestand van deze lijst"
 
 #: classes/PDb_List_Admin.class.php:789
 msgid "Include field titles"
@@ -261,10 +261,10 @@ msgid ""
 "records on all list pages. The fields included in the export are defined in "
 "the \"CSV\" column on the Manage Database Fields page."
 msgstr ""
-"Dit zal de volledige lijst van deelnemers downloaden die overeenkomen met uw "
+"Dit zal de volledige lijst van deelnemers downloaden die overeenkomen met je "
 "zoekopdracht en sortering. Het exportbestand zal records van alle pagina's "
 "bevatten. De in het exportbestand bijgevoegde velden zijn gedefinieerd in de "
-"\"CSV\"-kolom op de  Databaseveldenbeheer-pagina."
+"\"CSV\"-kolom op de Databaseveldenbeheer-pagina."
 
 #: classes/PDb_Pagination.class.php:358
 msgid "First"
@@ -300,11 +300,11 @@ msgstr "Lijstweergave-instellingen"
 
 #: classes/PDb_Settings.class.php:22
 msgid "Resend Link Settings"
-msgstr "Opnieuw versturen-linkinstellingen"
+msgstr "Instellingen 'Opnieuw versturen'-link"
 
 #: classes/PDb_Settings.class.php:23
 msgid "Advanced Settings"
-msgstr "Geavanceerde Instellingen"
+msgstr "Geavanceerde instellingen"
 
 #: classes/PDb_Settings.class.php:24
 msgid "Custom CSS"
@@ -316,7 +316,7 @@ msgid ""
 "editable form on the website."
 msgstr ""
 "Instellingen voor de [pdb_record]-shortcode, die wordt gebruikt om een door "
-"gebruikers te bewerken formulier te tonen."
+"gebruikers bewerkbaar formulier te tonen."
 
 #: classes/PDb_Settings.class.php:29
 msgid ""
@@ -324,7 +324,7 @@ msgid ""
 "records from the database."
 msgstr ""
 "Instellingen voor de [pdb_list]-shortcode, die wordt gebruikt om een lijst "
-"van records uit de database te tonen."
+"records uit de database te tonen."
 
 #: classes/PDb_Settings.class.php:30
 msgid ""
@@ -336,7 +336,7 @@ msgstr ""
 
 #: classes/PDb_Settings.class.php:31
 msgid "Settings for the lost private link resend function."
-msgstr "Instellingen voor de herstuurfunctie van een verloren privé-link ."
+msgstr "Instellingen voor de herstuurfunctie van een verloren persoonlijke link ."
 
 #: classes/PDb_Settings.class.php:32
 msgid "Settings for special configurations."
@@ -349,8 +349,8 @@ msgid ""
 "blog/wordpress/firebug-wordpress-css/\">Use Firebug for Editing WordPress "
 "Themes.</a></p>"
 msgstr ""
-"Aangepaste CSS-regels voor plugin-weergaves.</h4><p>Als u onbekend bent met "
-"CSS, probeer dan de volgende gids om u op weg te helpen: <a href=\"http://"
+"Aangepaste CSS-regels voor plugin-weergaves.</h4><p>Als je onbekend bent met "
+"CSS, probeer dan de volgende gids om op weg geholpen te worden: <a href=\"http://"
 "www.ostraining.com/blog/wordpress/firebug-wordpress-css/\">Gebruik Firebug "
 "om WordPress-Thema's te bewerken.</a></p>"
 
@@ -369,10 +369,10 @@ msgid ""
 "database'<br />Don't put it in the plugin folder, the images and files could "
 "get deleted when the plugin is updated."
 msgstr ""
-"Deze instelling regelt waar geüploade bestanden terecht komen, relatief tot "
+"Deze instelling regelt waar geüploade bestanden terecht komen, relatief t.o.v. "
 "de WordPress-root. De standaardlocatie is '/wp-content/uploads/participants-"
 "database'<br />Gebruik hiervoor niet de plugin-folder. Afbeeldingen en "
-"bestanden zouden verwijderd kunnen worden wanneer de plugin geüpdated wordt."
+"bestanden zouden verwijderd kunnen worden als de plugin geüpdatet wordt."
 
 #: classes/PDb_Settings.class.php:93
 msgid "File Upload Limit"
@@ -381,20 +381,20 @@ msgstr "Bestandsuploadlimiet"
 #: classes/PDb_Settings.class.php:97
 msgid "the maximum allowed file size (in kilobytes) for an uploaded file"
 msgstr ""
-"De maximum toegestane bestandsgrootte (in kilobytes) voor een geüpload "
+"De maximaal toegestane bestandsgrootte (in kilobytes) voor een te uploaden "
 "bestand."
 
 #: classes/PDb_Settings.class.php:104
 msgid "Allowed File Types"
-msgstr "Toegestane bestandstypen"
+msgstr "Toegestane bestandstypes"
 
 #: classes/PDb_Settings.class.php:108
 msgid ""
 "list of allowed file types by file extension. Please be aware that there are "
 "security risks in allowing file uploads."
 msgstr ""
-"Lijst met toegestane bestandstypen adhv de extensie. Weest u zich ervan "
-"bewust dat het toestaan van bestandsuploads beveiligingsrisico's met zich "
+"Lijst met toegestane bestandstypes adhv de extensie. Wees je ervan bewust "
+"dat het toestaan van bestandsuploads beveiligingsrisico's met zich "
 "mee kan brengen."
 
 #: classes/PDb_Settings.class.php:115
@@ -406,8 +406,8 @@ msgid ""
 "Path (relative to WP root) of an image file to show if no image has been "
 "defined for an image field. Leave blank for no default image."
 msgstr ""
-"Locatie (relatief t.o.v. WP-root) van een afbeeldingsbestand om weer te "
-"geven indien geen afbeelding opgegeven is. Laat leeg om geen gebruik te "
+"Locatie (relatief t.o.v. WP-root) van een weer te geven afbeeldingsbestand "
+"als er geen afbeelding opgegeven is. Laat leeg om geen gebruik te "
 "maken van een standaardafbeelding."
 
 #: classes/PDb_Settings.class.php:126
@@ -420,11 +420,11 @@ msgid ""
 "\"lightbox\" plugins."
 msgstr ""
 "Plaats een link naar de versie met volledige grootte van afbeeldingen. Deze "
-"link zal werken met de meeste \"lightbox\"-plugins."
+"link zal werken met de meeste ´lightbox´-plugins."
 
 #: classes/PDb_Settings.class.php:139
 msgid "Allow File Delete"
-msgstr "Sta bestandsverwijdering toe"
+msgstr "Bestandsverwijdering toestaan"
 
 #: classes/PDb_Settings.class.php:144
 msgid ""
@@ -432,7 +432,7 @@ msgid ""
 "deleted from a record by a user"
 msgstr ""
 "Indien aangevinkt, zullen geüploade bestanden en afbeeldingen uit het "
-"bestandssysteem verwijderd kunnen worden wanneer de gebruiker ze verwijdert."
+"bestandssysteem verwijderd kunnen worden als de gebruiker ze verwijdert."
 
 #: classes/PDb_Settings.class.php:152
 msgid "Make Links Clickable"
@@ -443,8 +443,8 @@ msgid ""
 "if a \"text-line\" field looks like a link (begins with \"http\" or is an "
 "email address) make it clickable"
 msgstr ""
-"Indien een \"tekstregel\"-dataveld overeenkomt met een HTML-link (begint met "
-"\"http\" of een emailadres is), dan klikbaar maken."
+"Indien een 'tekstregel'-dataveld overeenkomt met een HTML-link (begint met "
+'http' of een met emailadres is), dan klikbaar maken."
 
 #: classes/PDb_Settings.class.php:165
 msgid "Protect Email Addresses"
@@ -452,19 +452,19 @@ msgstr "Bescherm emailadressen"
 
 #: classes/PDb_Settings.class.php:170
 msgid "protect email addresses in text-line fields with Javascript"
-msgstr "Bescherm emailadressen in \"tekstregel\"-datavelden met Javascript."
+msgstr "Bescherm emailadressen in 'tekstregel'-datavelden met Javascript."
 
 #: classes/PDb_Settings.class.php:178
 msgid "Missing Field Error Message"
-msgstr "Foutmelding ontbrekend veld "
+msgstr "Foutmelding ontbrekend veld"
 
 #: classes/PDb_Settings.class.php:182
 msgid ""
 "the message shown when a field is required, but left empty (the %s is "
 "replaced by the name of the field)"
 msgstr ""
-"De weer te geven foutmelding wanneer een veld verplicht is, maar niet "
-"ingevuld is (de %s wordt vervangen door de titel van het veld)."
+"de weer te geven foutmelding als een veld verplicht is, maar niet "
+"ingevuld (de %s wordt vervangen door de titel van het veld)."
 
 #: classes/PDb_Settings.class.php:183
 msgid "The %s field is required."
@@ -478,7 +478,7 @@ msgstr "Foutmelding ongeldig veld "
 msgid ""
 "the message shown when a field's value does not pass the validation test"
 msgstr ""
-"De weer te geven foutmelding wanneer de invoer van een veld niet door de "
+"De weer te geven foutmelding als de invoer van een veld niet door de "
 "validatietest komt."
 
 #: classes/PDb_Settings.class.php:194
@@ -495,7 +495,7 @@ msgid ""
 "field. The first %s will show the name of the field, the second will show "
 "the name of the field it must match."
 msgstr ""
-"De weer te geven foutmelding wanneer de waarde van een veld niet overeenkomt "
+"De weer te geven foutmelding als de waarde van een veld niet overeenkomt "
 "met dat van een ander veld. De eerste %s zal de naam van het dataveld tonen, "
 "de tweede zal de naam van het overeenkomende veld tonen."
 
@@ -509,7 +509,7 @@ msgstr "Bericht mislukte CAPTCHA"
 
 #: classes/PDb_Settings.class.php:216
 msgid "the message shown when the CAPTCHA (verify human) test failed"
-msgstr "Het te tonen bericht wanneer de CAPTCHA-test is mislukt."
+msgstr "Het te tonen bericht als de CAPTCHA-test mislukt is."
 
 #: classes/PDb_Settings.class.php:217
 msgid "Pleast try the %s question again."
@@ -533,7 +533,7 @@ msgstr "Markeer verplichte velden"
 
 #: classes/PDb_Settings.class.php:239
 msgid "mark the title of required fields?"
-msgstr "De titel van verplichte velden markeren?"
+msgstr "de titel van verplichte velden markeren?"
 
 #: classes/PDb_Settings.class.php:247
 msgid "Required Field Marker"
@@ -544,8 +544,8 @@ msgid ""
 "html added to field title for required fields if selected above (the %s is "
 "replaced by the title of the field)"
 msgstr ""
-"HTML-code, die toegevoegd wordt aan de titel van verplichte velden (indien "
-"hierboven geselecteerd). (De %s wordt vervangen door de titel van het veld)."
+"HTML-code, die toegevoegd wordt aan de titel van verplichte velden, indien "
+"hierboven geselecteerd (de %s wordt vervangen door de titel van het veld)."
 
 #: classes/PDb_Settings.class.php:276
 msgid "Signup Button Text"
@@ -558,7 +558,7 @@ msgstr "Weer te geven tekst op de registratieknop."
 #: classes/PDb_Settings.class.php:281
 msgctxt "the text on a button to submit a signup form"
 msgid "Sign Up"
-msgstr "Registreer"
+msgstr "Registreren"
 
 #: classes/PDb_Settings.class.php:287
 msgid "Signup Thanks Page"
@@ -571,10 +571,10 @@ msgid ""
 "have to do that if you have them go back to the same page. You can also use "
 "a Post ID for posts and custom post types."
 msgstr ""
-"Stuurt gebruikers na registratie naar deze pagina voor een bedankbericht. "
-"Dit is de pagina waar u de [pdb_signup_thanks]-shortcode  gebruikt. U hoeft "
-"hier geen gebruik van te maken indien u ze simpelweg terug naar dezelfde "
-"pagina wilt sturen. U kunt hier ook gebuik maken van een \"Post ID\" of "
+"stuurt gebruikers na registratie naar deze pagina voor een bedankbericht. "
+"Dit is de pagina waar je de [pdb_signup_thanks]-shortcode gebruikt. Je hoeft "
+"hier geen gebruik van te maken als je hen simpelweg terug naar dezelfde "
+"pagina wilt sturen. Je kunt hier ook gebuik maken van een 'Post ID' of "
 "aangepaste berichttypes."
 
 #: classes/PDb_Settings.class.php:300
@@ -587,14 +587,14 @@ msgstr "Toont groepen en groepsomschrijvingen op het registratieformulier."
 
 #: classes/PDb_Settings.class.php:313
 msgid "Duplicate Record Check Field"
-msgstr "Controleveld voor identiek record "
+msgstr "Controleveld voor identiek record"
 
 #: classes/PDb_Settings.class.php:318
 msgid ""
 "when a signup is submitted or CSV record is imported, this field is checked "
 "for a duplicate"
 msgstr ""
-"Wanneer een registratie wordt ingediend of een CSV-record wordt "
+"Als een registratie wordt ingediend of een CSV-record wordt "
 "geïmporteerd, zal dit veld worden gecontroleerd op uniciteit."
 
 #: classes/PDb_Settings.class.php:325
@@ -606,7 +606,7 @@ msgid ""
 "when the submission matches the Duplicate Record Check Field of an existing "
 "record. This also applies to importing records from a CSV file."
 msgstr ""
-"Wanneer een invoer overeenkomt met het \"Identiek record-controleveld\" van "
+"als een invoer overeenkomt met het 'Controleveld identiek record' van "
 "een bestaand record. Dit geldt ook voor het importeren van records uit een "
 "CSV-bestand."
 
@@ -616,11 +616,11 @@ msgstr "Maak een nieuw record aan met de inschrijving"
 
 #: classes/PDb_Settings.class.php:334
 msgid "Overwrite matching record with new data"
-msgstr "Overschrijf identiek record met nieuwe data"
+msgstr "Overschrijf identiek record met nieuwe gegevens"
 
 #: classes/PDb_Settings.class.php:335
 msgid "Show a validation error message"
-msgstr "Toon een validatiefoutmedling"
+msgstr "Toon een valideringsfoutmelding"
 
 #: classes/PDb_Settings.class.php:343
 msgid "Duplicate Record Error Message"
@@ -632,9 +632,9 @@ msgid ""
 "be shown if a signup is made with a \"check field\" that matches an existing "
 "record."
 msgstr ""
-"Als \"Toon een validatiefoutmelding\" hierboven is geselecteerd, zal dit "
-"bericht worden getoond wanneer registratie plaatsvindt met een waarde in het "
-"\"controleveld\" die overeenkomt met een bestaand record."
+"Als 'Toon een validatiefoutmelding' hierboven is geselecteerd, zal dit "
+"bericht worden getoond als registratie plaatsvindt met een waarde in het "
+"'controleveld' die overeenkomt met een bestaand record."
 
 #: classes/PDb_Settings.class.php:348
 msgid "A record with that %s already exists. Please choose another."
@@ -642,15 +642,15 @@ msgstr "Een record met deze %s bestaat al. Kies een andere."
 
 #: classes/PDb_Settings.class.php:354
 msgid "Send Signup Response Email"
-msgstr "Stuur email voor registratiebevestiging "
+msgstr "Stuur een e-mail voor registratiebevestiging "
 
 #: classes/PDb_Settings.class.php:358
 msgid "Send a receipt email to people who sign up"
-msgstr "Stuur een ontvangstbericht (bevestiging) via email naar inschrijvers"
+msgstr "Stuur een ontvangstbericht (bevestiging) via e-mail naar inschrijvers"
 
 #: classes/PDb_Settings.class.php:366
 msgid "Signup Email From Address"
-msgstr "Afzenderadres voor registratie-email "
+msgstr "Afzenderadres voor registratie-e-mail "
 
 #: classes/PDb_Settings.class.php:370
 msgid ""
@@ -658,22 +658,22 @@ msgid ""
 "\", their reply will go to this address. It is a good idea to use an email "
 "address from the same domain as this website."
 msgstr ""
-"Het afzenderadres van het registratiebevestigingsbericht. Indien de "
-"ontvanger \"antwoord aan\" gebruikt, zal het bericht naar dit emailadres "
-"gestuurd worden. Het is aan te bevelen een emailadres te gebruiken met "
+"Het afzenderadres van het registratiebevestigingsbericht. Als de "
+"ontvanger klikt op 'Reply', zal het bericht naar dit e-mailadres "
+"gestuurd worden. Het is aan te bevelen een e-mailadres te gebruiken met "
 "dezelfde domeinnaam als de website."
 
 #: classes/PDb_Settings.class.php:377
 msgid "Signup Email From Name"
-msgstr "Registratie-email van afzendernaam"
+msgstr "Afzendernaam van inschrijfe-mail"
 
 #: classes/PDb_Settings.class.php:381
 msgid "the \"From\" name on signup receipt emails."
-msgstr "De naam van de afzender van het registratiebevestigingsbericht."
+msgstr "de naam van de afzender van het registratiebevestigingsbericht."
 
 #: classes/PDb_Settings.class.php:388
 msgid "Signup Response Email Subject"
-msgstr "Onderwerp registratie-email "
+msgstr "Onderwerp inschrijfe-mail "
 
 #: classes/PDb_Settings.class.php:392
 msgid ""
@@ -681,11 +681,11 @@ msgid ""
 "(see below)"
 msgstr ""
 "Onderwerpregel van het registratiebevestigingsbericht; er kunnen "
-"plaatshoudertags gebruikt worden (zie hieronder)."
+"plaatshouderlabels gebruikt worden (zie hieronder)."
 
 #: classes/PDb_Settings.class.php:393
 msgid "You've just signed up on %s"
-msgstr "U heeft zich zojuist geregistreerd op %s"
+msgstr "Je hebt je  zojuist geregistreerd op %s"
 
 #: classes/PDb_Settings.class.php:399
 msgid "Signup Response Email"
@@ -702,7 +702,7 @@ msgstr ""
 "Inhoud van het bevestigingsbericht na registratie. Deze bevat een link "
 "([record_link]) naar het desbetreffende record, zodat deze in- of aangevuld "
 "kan worden. Dit bericht kan HTML en plaatshouders zoals: [first_name], "
-"[last_name], [email], [record_link] bevatten. U kunt alleen plaatshouders "
+"[last_name], [email], [record_link] bevatten. Je kunt alleen plaatshouders "
 "gebruiken voor velden die aanwezig zijn in het registratieformulier "
 "(inclusief verborgen velden)."
 
@@ -714,9 +714,9 @@ msgid ""
 "visiting this private link at any time: <a href="
 "\"[record_link]\">[record_link]</a>.</p>"
 msgstr ""
-"<p>Hartelijk dank [first_name], voor uw registratie op %s.</p><p>U kunt uw "
-"registratie afmaken met aanvullende gegevens of uw informatie updaten door "
-"gebruik te maken van uw persoonlijke link: <a href="
+"<p>Hartelijk dank [first_name], voor registratie op %s.</p><p>Je kunt de "
+"registratie afmaken met aanvullende gegevens of je informatie updaten door "
+"gebruik te maken van de persoonlijke link: <a href="
 "\"[record_link]\">[record_link]</a>.</p>"
 
 #: classes/PDb_Settings.class.php:411
@@ -728,7 +728,7 @@ msgid ""
 "Note to display on the web page after someone has submitted a signup form. "
 "Can include HTML and placeholders (see above)"
 msgstr ""
-"Weer te geven bericht op de webpagina, na succesvolle registratie. Dit "
+"Weer te geven bericht op de webpagina na succesvolle registratie. Dit "
 "bericht kan HTML en plaatshouders (zie hierboven) bevatten."
 
 #: classes/PDb_Settings.class.php:416
@@ -738,10 +738,10 @@ msgid ""
 "information or update your information by visiting the link provided in the "
 "email.</p>"
 msgstr ""
-"<p>Hartelijk dank [first_name], voor uw registratie!</p><p>U zult spoedig "
-"een bevestigingsbericht ontvangen via email. U kunt uw registratie afmaken "
-"met aanvullende gegevens of uw informatie updaten door gebruik te maken van "
-"uw persoonlijke link in de email.</p>"
+"<p>Hartelijk dank [first_name], voor de registratie!</p><p>U zult spoedig "
+"een bevestigingsbericht ontvangen via email. Je kunt de registratie afmaken "
+"met aanvullende gegevens of de informatie updaten door gebruik te maken van "
+"de persoonlijke link in de e-mail.</p>"
 
 #: classes/PDb_Settings.class.php:422
 msgid "Send Signup Notification Email"
